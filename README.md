@@ -1,5 +1,8 @@
 # Observation Map - Multi-Species Analysis
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/EOSC-Data-Commons/FinBIF-observation-trends-tool/HEAD)
+[![Replay](https://img.shields.io/badge/launch-EGI%20Replay-F5A252.svg)](https://replay.notebooks.egi.eu/v2/gh/EOSC-Data-Commons/FinBIF-observation-trends-tool/HEAD)
+
 A Python notebook that analyzes the 5 most common species from FinBIF/GBIF Darwin Core Archives, showing their and geographic distribution.
 
 ## Overview
